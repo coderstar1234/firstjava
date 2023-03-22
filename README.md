@@ -1,5 +1,6 @@
 <h1 align="center">First Java program</h1>
 <p align="center">The first code for Java coding.</p>
+https://www.gif-maniac.com/gifs/50/49799.gif
 <h2 align="center">Deceleration:📟</h2>
 
 - This project contains the first Java code I ever wrote. It is a simple "Hello, World!" program that prints a greeting to the console.
