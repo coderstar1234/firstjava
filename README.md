@@ -16,8 +16,8 @@ Once Java is installed, you can run the program by following these steps:
 
 <h1 align="center">Clone the repository:</h1>
 
-bash
-Copy code
+<h2 align="center">BASH</h2>
+<h3 align=" center" >Copy code </h3>
 <h3 align=" center" >local machine:📺 </h3>
 
 <p  align=" center" >git clone :📝<br> https://github.com/your-username/first-java-code.git</p>
@@ -25,19 +25,23 @@ Copy code
 Navigate to the project directory:
 
 
+<h2 align="center">BASH</h2>
+<h3 align=" center" >Copy code </h3>
 
-bash
-Copy code
-cd first-java-code
-Compile the program:
+- [cd first-java-code](https://cd:first-java-code)
 
-Copy code
+
+<p  align=" center" >Compile the program:</p>
+
+<h3 align=" center" >Copy code </h3>
 javac HelloWorld.java
-Run the program:
 
-Copy code
+<p  align=" center" >Run the program:</p>
+
+<h3 align=" center" >Copy code </h3>
 java HelloWorld
-You should see the message "Hello, World!" printed to the console.
+
+- You should see the message "Hello, World!" printed to the console.
 
 <h1 align="center">Contributing</h1>
 
@@ -51,3 +55,6 @@ You should see the message "Hello, World!" printed to the console.
 
 - I would like to thank my Java instructor for introducing me to the language and inspiring me to pursue programming.
 -  Without their guidance, I wouldn't have been able to write this code.
+
+
+📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
