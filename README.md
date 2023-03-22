@@ -22,7 +22,7 @@ Once Java is installed, you can run the program by following these steps:
 
 <p  align=" center" >git clone :📝<br> https://github.com/your-username/first-java-code.git</p>
   
-Navigate to the project directory:
+<p  align=" center" >Navigate to the project directory:</p>
 
 
 <h2 align="center">BASH</h2>
@@ -34,12 +34,14 @@ Navigate to the project directory:
 <p  align=" center" >Compile the program:</p>
 
 <h3 align=" center" >Copy code </h3>
-javac HelloWorld.java
+
+- [javac HelloWorld.java](https://javac:HelloWorld.java)
 
 <p  align=" center" >Run the program:</p>
 
 <h3 align=" center" >Copy code </h3>
-java HelloWorld
+
+- [java HelloWorld](https://java:HelloWorld)
 
 - You should see the message "Hello, World!" printed to the console.
 
@@ -57,4 +59,3 @@ java HelloWorld
 -  Without their guidance, I wouldn't have been able to write this code.
 
 
-📫 You can contact the team Corex Revise [here](https://linktr.ee/corex_revise)  
