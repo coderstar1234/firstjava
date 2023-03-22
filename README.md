@@ -1,6 +1,8 @@
 <h1 align="center">First Java program</h1>
 <p align="center">The first code for Java coding.</p>
-https://www.gif-maniac.com/gifs/50/49799.gif
+<div align="center" >
+<img height="100" wedith="100" src="https://www.gif-maniac.com/gifs/50/49799.gif"></div>
+
 <h2 align="center">Deceleration:📟</h2>
 
 - This project contains the first Java code I ever wrote. It is a simple "Hello, World!" program that prints a greeting to the console.
@@ -20,6 +22,9 @@ Once Java is installed, you can run the program by following these steps:
 <h2 align="center">BASH</h2>
 <h3 align=" center" >Copy code </h3>
 <h3 align=" center" >local machine:📺 </h3>
+<div align="center" >
+<img height="100" wedith="100" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
+
 
 <p  align=" center" >git clone :📝<br> https://github.com/your-username/first-java-code.git</p>
   
@@ -47,6 +52,9 @@ Once Java is installed, you can run the program by following these steps:
 - You should see the message "Hello, World!" printed to the console.
 
 <h1 align="center">Contributing</h1>
+<div align="center" >
+<img height="100" wedith="100" src="https://64.media.tumblr.com/37cf2ab82df86208d35649d933358873/tumblr_n7swt41nz11rekr9fo4_r1_500.gif"></div>
+
 
 - This project is for educational purposes only and is not open to contributions. 
 - However, if you have any feedback or suggestions, feel free to create an issue or contact me directly.
