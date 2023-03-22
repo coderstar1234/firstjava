@@ -1,11 +1,12 @@
 <h1 align="center">First Java program</h1>
-<p aling="center">The first code for Java coding.</p>
+<p align="center">The first code for Java coding.</p>
 <h2 align="center">Deceleration:📟</h2>
 
 - This project contains the first Java code I ever wrote. It is a simple "Hello, World!" program that prints a greeting to the console.
 
 <h1 align="center">Getting Started</h1>
-To run the program, you'll need to have Java installed on your machine. You can check if Java is installed by running the following command in your terminal:
+
+- To run the program, you'll need to have Java installed on your machine. You can check if Java is installed by running the following command in your terminal:
 
 <h1 align="center">Copy code</h1>
 java -version
