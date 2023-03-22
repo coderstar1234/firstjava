@@ -18,8 +18,13 @@ Once Java is installed, you can run the program by following these steps:
 
 bash
 Copy code
-git clone https://github.com/your-username/first-java-code.git
+<h3 align=" center" >local machine:📺 </h3>
+
+<p  align=" center" >git clone :📝<br> https://github.com/your-username/first-java-code.git</p>
+  
 Navigate to the project directory:
+
+
 
 bash
 Copy code
