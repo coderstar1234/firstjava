@@ -35,9 +35,14 @@ java HelloWorld
 You should see the message "Hello, World!" printed to the console.
 
 <h1 align="center">Contributing</h1>
-This project is for educational purposes only and is not open to contributions. However, if you have any feedback or suggestions, feel free to create an issue or contact me directly.
+
+- This project is for educational purposes only and is not open to contributions. 
+- However, if you have any feedback or suggestions, feel free to create an issue or contact me directly.
 
 <h1 align="center">License</h1>
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
 <h1 align="center">Acknowledgements</h1>
-I would like to thank my Java instructor for introducing me to the language and inspiring me to pursue programming. Without their guidance, I wouldn't have been able to write this code.
+
+- I would like to thank my Java instructor for introducing me to the language and inspiring me to pursue programming.
+-  Without their guidance, I wouldn't have been able to write this code.
